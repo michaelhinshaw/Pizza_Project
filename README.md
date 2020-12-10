@@ -1,4 +1,4 @@
-Mock up Website for a local pizza place.
-Using HTML, CSS, and Javascript I built this
-site for a new local company.  Calculates price and 
-can monitor inventory.
+Website built for a new local pizza business.
+Using HTML, CSS, and Javascript this
+site calculates price, allows users to add selections,
+and can monitor inventory.
